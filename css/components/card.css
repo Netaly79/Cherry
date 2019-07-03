@@ -14,11 +14,14 @@
     color:white;
 }
 .card-description{
-    color: #c9c7c7;
+    color: rgba(92, 100, 110, 255);
     font-family: "Arial MT";
     font-size: 14px;
     font-weight: 400;
     line-height: 18px;
+}
+.hero-card-description{
+    color: #c9c7c7;
 }
 .card-media{
     width:100%;

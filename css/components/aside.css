@@ -7,6 +7,18 @@
 }
 .aside-img{
     height:115px;
-    width: 100%;
     object-fit: cover;
+    width: 100%;
+}
+.aside-link{
+    color: #ff1744;
+    font-family: "Arial - Bold MT";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-decoration: underline;
+}
+.aside-link:hover{
+    color:black;
+    text-decoration: none;
 }
