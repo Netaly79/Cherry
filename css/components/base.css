@@ -50,3 +50,6 @@ ol > li > ul,
 ol > li > ol {
   margin: 0;
 }
+section{
+  display:flex;
+}
