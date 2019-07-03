@@ -1,3 +1,8 @@
+
+.card{
+    padding-top: 46px;
+    padding-left: 28px;
+}
 .card-title{
     color: black;
     font-family: "Arial - Bold MT";
@@ -15,3 +20,9 @@
     font-weight: 400;
     line-height: 18px;
 }
+.card-media{
+    width:100%;
+    display: block;
+    margin-bottom: 30px;
+}
+

@@ -1,0 +1,7 @@
+.article{
+    padding: 0 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-grow: 1;
+    background-color:burlywood;
+}

@@ -1,0 +1,12 @@
+.aside{
+    padding: 0 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-basis: 265px;
+    flex-shrink: 0;
+}
+.aside-img{
+    height:115px;
+    width: 100%;
+    object-fit: cover;
+}
