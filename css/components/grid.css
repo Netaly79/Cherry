@@ -5,3 +5,13 @@
 .main-row{
     margin:0 -13px;
 }
+.cards-row{
+    margin: 0 -7.5px;
+}
+.col{
+    padding: 0 7.5px;
+    overflow: hidden;
+}
+.col-1-3{
+    width:33.33%;
+}

@@ -24,11 +24,11 @@
 }
 .menu-item a{
     color: #ffffff;
-    font-family: "Arial - Bold MT";
+    font-family: "Arial";
     font-size: 16px;
-    font-weight: 400;
+    font-weight: bold;
     line-height: 14px;
-    margin-right: 57px;
+    margin-right: 50px;
 }
 .menu-item:last-child{
     margin-right: 0;

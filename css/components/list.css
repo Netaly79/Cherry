@@ -1,0 +1,29 @@
+.circle{
+    padding-left: 10px;
+    list-style: disc;
+    margin: 0px;
+}
+.list-title{
+    color: #5c646e;
+    font-family: "Arial";
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 24px;
+}
+li{
+    color: #5c646e;
+    font-family: "Arial";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.unstyled{
+    list-style: none;
+    padding-left: 0px;
+    margin: 0;
+}
+.ordered{
+    list-style: decimal;
+    padding-left: 12px;
+    margin: 0;
+}

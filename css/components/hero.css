@@ -11,16 +11,16 @@
 .hero-title{
     margin:0;
     color: #ffffff;
-    font-family: "Arial - Bold MT";
+    font-family: "Arial";
     font-size: 30px;
-    font-weight: 400;
+    font-weight: bold;
     line-height: 14px;
 }
 .hero-subtitle{
     color: #c9c7c7;
-    font-family: "Arial - Bold MT";
+    font-family: "Arial";
     font-size: 18px;
-    font-weight: 400;
+    font-weight: bold;
     line-height: 14px;
     margin-top:7px;
 }
