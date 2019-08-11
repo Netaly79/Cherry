@@ -1,5 +1,6 @@
 .article{
     padding: 0 13px;
+    margin-right: 28px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;

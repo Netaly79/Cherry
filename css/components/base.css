@@ -13,6 +13,7 @@ body {
 }
 main{
   margin: 0 auto;
+  background-color:white;
 }
 .container {
   width:980px;

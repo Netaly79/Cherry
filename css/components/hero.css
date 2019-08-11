@@ -5,6 +5,9 @@
     object-fit: cover;
     background-color: black;
 }
+section.section-hero{
+    margin-bottom: 0px;
+}
 .text-block{
     padding:48px 470px 38px 26px;
 }
