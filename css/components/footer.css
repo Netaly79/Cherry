@@ -1,4 +1,52 @@
 .footer{
     background-color: #262d34;
     border-top: 12px solid #ff1744;
+    padding-top: 28px;
+}
+.red-disc{
+    list-style: disc;
+    margin: 0;
+    padding-left: 10px;
+}
+.red-disc li{
+    color:#ff1744;
+}
+li > span{
+    color: #85898f;
+    font-family: "Arial";
+    font-size: 12px;
+    font-weight: 400;
+}
+.card > .footer-card-title{
+    font-size: 18px;
+    font-weight: 400;
+    color: #a5adb8;
+}
+.footer-card-title::first-letter{
+    color:#ff1744;
+}
+.footer-desc{
+    color: #85898f;
+    font-family: "Arial";
+    font-size: 12px;
+    font-weight: 400;
+}
+.card > .footer-desc-bold{
+    font-weight: bold;
+    font-size: 14px;
+    color: #a5adb8;
+}
+.footer-line{
+    border-top:1px solid #191c20;
+    border-bottom:1px solid  #40474f;
+}
+.footer-link{
+    color: #d08b98;
+    font-family: "Arial";
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.footer-link:hover{
+    color:#ff1744;
 }
